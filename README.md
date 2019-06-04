@@ -1,6 +1,6 @@
 # HUM
 
 # Feature 
- 1. share Expenses
+ 1. Share Expenses
  2. Budget Expenses
  
